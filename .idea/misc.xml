@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Projects/Android/Contact/app/src/main/res/drawable/img_logo.xml" value="0.2435" />
+        <entry key="..\:/Projects/Android/Contact/app/src/main/res/drawable/img_logo_reminder_background.xml" value="0.219" />
+        <entry key="..\:/Projects/Android/Contact/app/src/main/res/layout/activity_home.xml" value="0.1722900215362527" />
+        <entry key="..\:/Projects/Android/Contact/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Projects/Android/Contact/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Projects/Android/Contact/app/src/main/res/layout/activity_signup.xml" value="0.264" />
+        <entry key="..\:/Projects/Android/Contact/app/src/main/res/layout/card_reminder.xml" value="0.264" />
+        <entry key="..\:/Projects/Android/Contact/app/src/main/res/layout/circular_progress_indicator.xml" value="0.19384057971014493" />
+        <entry key="..\:/Projects/Android/Contact/app/src/main/res/layout/fragment_upcoming_remind.xml" value="0.1" />
+        <entry key="..\:/Projects/Android/Contact/app/src/main/res/layout/progress_circlular.xml" value="0.1796448087431694" />
+        <entry key="..\:/Projects/Android/Contact/app/src/main/res/layout/progress_circular.xml" value="0.1796448087431694" />
+        <entry key="..\:/Projects/Android/Contact/app/src/main/res/menu/home_bottom_navigation_menu.xml" value="0.20512820512820512" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
